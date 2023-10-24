@@ -78,7 +78,11 @@ Project Link: [[https://github.com/BeccaBenn/grocery_inflation.git]](https://git
 ]()
 * [https://dof.ca.gov/wp-content/uploads/sites/352/2023/09/CPI_Expenditure_Detail.xlsx] (State of California Department of Finance - Monthly (by Expenditure Detail): from 2000)
 * [This project uses an AI language model developed by [OpenAI](https://www.openai.com). The model was used for providing information and assistance in various parts of the project.] (- [OpenAI](https://www.openai.com) for the AI model.)
-* []()
+* [https://www.fb.org/focus-on-agriculture/dairy-farmers-struggle-as-milk-prices-fall-and-costs-climb#:~:text=In%202009%2C%20dairy%20farmers%20faced,paying%20historically%20high%20feed%20costs]()
+* [https://www.bls.gov/opub/mlr/1982/01/art2full.pdf]()
+* [https://www.foxbusiness.com/lifestyle/sky-high-egg-prices-historical-look-egg-costs-since-1980]()
+* [https://www.morningstar.com/news/marketwatch/20230814228/why-have-frozen-fruit-and-vegetable-prices-soared-by-almost-12-but-the-cost-of-fresh-produce-has-not]()
+* [https://fredblog.stlouisfed.org/2023/01/egg-and-poultry-price-inflation/]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
