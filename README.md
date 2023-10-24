@@ -25,7 +25,7 @@
 <h3 align="center">Grocery Inflation</h3>
 
   <p align="center">
-    Looking at the changes in foods costs in the United States, with a focus on California.
+    Looking at the changes in foods costs in the United States, with a focus on California. Information was gathered from multiple sources, then cleaned and graphed in Jupyter Notebook. In examining changes in the Consumer Price Index, we could see the extreme rates of inflation in the 1970's, and see how current price trends are almost as alarming.
     <br />
    
 
